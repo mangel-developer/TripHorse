@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "TripHorse", "TripHorse\TripHorse.ccproj", "{89888F15-CC68-48EA-B164-65BFC50F0897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{779B9E5A-8654-41AA-83F7-965C43F8F1AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89888F15-CC68-48EA-B164-65BFC50F0897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89888F15-CC68-48EA-B164-65BFC50F0897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89888F15-CC68-48EA-B164-65BFC50F0897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89888F15-CC68-48EA-B164-65BFC50F0897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779B9E5A-8654-41AA-83F7-965C43F8F1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779B9E5A-8654-41AA-83F7-965C43F8F1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779B9E5A-8654-41AA-83F7-965C43F8F1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779B9E5A-8654-41AA-83F7-965C43F8F1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B22675D-25CC-4E9B-A994-8454F06A12A1}
+	EndGlobalSection
+EndGlobal
